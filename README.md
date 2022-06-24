@@ -2,3 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ruby on Rails developer with 1 year of experience in Requirements Analysis, Design, Development, Implementation, Production using Ruby on Rails and other Web Application frameworks. 🇷🇺</h3>
 [![codewars](https://www.codewars.com/users/Onizukachi/badges/large)](https://www.codewars.com/users/Onizukachi)
+https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
